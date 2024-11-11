@@ -1,2 +1,2 @@
-# distribution-power-flow-analysis-based-on-GPU
-Using GPU to accelerate the power flow analysis for distribution network
+# DistributionPowerFlow
+Distribution system modelling and analysis based on Julia
